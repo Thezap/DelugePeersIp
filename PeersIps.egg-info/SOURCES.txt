@@ -1,0 +1,11 @@
+setup.py
+PeersIps.egg-info/PKG-INFO
+PeersIps.egg-info/SOURCES.txt
+PeersIps.egg-info/dependency_links.txt
+PeersIps.egg-info/entry_points.txt
+PeersIps.egg-info/top_level.txt
+deluge_peersips/__init__.py
+deluge_peersips/common.py
+deluge_peersips/core.py
+deluge_peersips/data/config.ui
+deluge_peersips/data/peersips.js

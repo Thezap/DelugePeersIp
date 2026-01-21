@@ -1,0 +1,2 @@
+[deluge.plugin.core]
+PeersIps = deluge_peersips:CorePlugin
